@@ -1,0 +1,44 @@
+.rental-home {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  .highlight {
+    color: purple;
+  }
+  
+  .city-buttons button {
+    margin: 5px;
+    padding: 10px 15px;
+    border: none;
+    background-color: lightgray;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+
+  .city-buttons button:hover {
+    background-color: purple;
+    color: white;
+  }
+  
+  .property-list {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 20px;
+  }
+  
+  .view-all {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: purple;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .view-all:hover {
+    background-color: darkpurple;
+  }
+  
